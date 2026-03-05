@@ -1,0 +1,5 @@
+langchain==0.3.13
+langchain-community
+pyjwt
+requests
+python-dotenv
